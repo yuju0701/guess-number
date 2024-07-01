@@ -62,7 +62,20 @@ body {
     margin-right: 20px;
     text-align: center;
 }
-  
+
+#entered-numbers {
+  font-size: 1.5vw; 
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+#answer {
+  font-size: 2vw;
+  font-weight: bold;
+  color: blue;
+  margin-top: 20px;
+}
+
 @media screen and (max-width: 48rem) {
     .pre-title {
       font-size: 10vw;
